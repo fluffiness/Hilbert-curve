@@ -4,9 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pygame = "*"
-pyopengl = "*"
-pyopengl-accelerate = "*"
+numpy = "*"
+matplotlib = "*"
 
 [dev-packages]
 
