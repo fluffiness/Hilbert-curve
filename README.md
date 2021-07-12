@@ -1,3 +1,4 @@
 # Hilbert-curve
 
-Draws Hilbert curves with pygame and pyOpenGL.
+Draws Hilbert curves and sierpinski curves with matplotlob.
+Animate Hilbert curves using matplotlib.animation.
